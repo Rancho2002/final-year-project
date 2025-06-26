@@ -75,7 +75,7 @@ pip install -r requirements.txt
 To train the autoencoder on noisy signal data:
 
 ```bash
-python train_model.py
+python denoise_signal.ipynb
 ```
 
 This will:
@@ -94,7 +94,7 @@ This will:
 Once training is complete, you can use the saved model to denoise any input signal:
 
 ```bash
-python predict_denoised.py
+python denoise_signal.ipynb
 ```
 
 This will:
