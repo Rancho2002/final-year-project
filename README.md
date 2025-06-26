@@ -1,0 +1,3 @@
+- You can run ` pip install -r requirements.txt ` from a fresh environment and everything should work.
+- Used python version: Python 3.10
+- Used platform: Google Collab
